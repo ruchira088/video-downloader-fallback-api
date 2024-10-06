@@ -1,8 +1,8 @@
-.venv
-__pycache__
+**/.DS_Store
+**/__pycache__
+**/.venv
 
+**/.idea
+**/.vscode
 
-.idea
-.vscode
-
-.DS_Store
+**/.DS_Store
